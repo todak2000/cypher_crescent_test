@@ -3,6 +3,8 @@
 Problem One is a Water Influx history matching problem using the Van Everdingen - Hurst dimensionless variables for water encroachment
 Source: L.P Dake “Fundamentals of Reservoir Engineering” pp. 310 – 314, 1978.
 
+![Figure_1](https://user-images.githubusercontent.com/26861798/104261362-3b9e5280-543a-11eb-9b6f-b63770833555.png)
+
 Problem Two Calculates the zFactor of a gas using the Hall & Yarborough method
 Source: Chi. U. Ikoku “Natural Gas Production Engineering” Wiley pp. 46 – 47, 1984.
 
